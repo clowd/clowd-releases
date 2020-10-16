@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Feed BaseUrl="UPDATE-ME/assets/stable/2.3.40.1914">
+<Feed BaseUrl="https://caesay.github.io/clowd-releases/assets/stable/2.3.40.1914">
   <Tasks>
     <FileUpdateTask localPath="Clowd.exe" lastModified="132473291759582467" fileSize="783360">
       <Conditions>
@@ -216,7 +216,7 @@
         <FileChecksumCondition type="not" checksumType="sha256" checksum="93FBC59E4880AFC9F136C3AC0976ADA7F3FAA7CACEDCE5C824B337CBCA9D2EBF" />
       </Conditions>
     </FileUpdateTask>
-    <FileUpdateTask localPath="version" lastModified="132473301810187656" fileSize="18">
+    <FileUpdateTask localPath="version" lastModified="132473307723447465" fileSize="18">
       <Conditions>
         <FileChecksumCondition type="not" checksumType="sha256" checksum="EECBEB8D4D73FE46190858DDC4F89620D0B2515A10FCA5C2E1935AD1428FD2FF" />
       </Conditions>
