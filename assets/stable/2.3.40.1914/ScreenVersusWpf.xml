@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ScreenVersusWpf</name>
+    </assembly>
+    <members>
+        <member name="M:ScreenVersusWpf.ScreenInfo.#ctor(System.Windows.Forms.Screen)">
+            <summary>Constructs a new instance for a physical screen.</summary>
+        </member>
+        <member name="M:ScreenVersusWpf.ScreenInfo.#ctor(System.Int32,System.Int32)">
+            <summary>Constructs a new instance for the virtual screen with the specified size.</summary>
+        </member>
+        <member name="P:ScreenVersusWpf.ScreenTools.VirtualScreenSystemLeft">
+            <summary>X coordinate of the virtual screen left edge in the system coordinate space.</summary>
+        </member>
+        <member name="P:ScreenVersusWpf.ScreenTools.VirtualScreenSystemTop">
+            <summary>Y coordinate of the virtual screen top edge in the system coordinate space.</summary>
+        </member>
+        <member name="F:ScreenVersusWpf.ScreenTools._screens">
+            <summary>Caches screen information. Reset to null when screen settings change, to be regenerated on first use.</summary>
+        </member>
+        <member name="M:ScreenVersusWpf.ScreenTools.#cctor">
+            <summary>Initialises ScreenTools on first use.</summary>
+        </member>
+        <member name="M:ScreenVersusWpf.ScreenTools.displaySettingsChanged">
+            <summary>Handles changes to screen settings.</summary>
+        </member>
+        <member name="E:ScreenVersusWpf.ScreenTools.ScreenSettingsChanged">
+            <summary>
+                Triggered whenever screen settings change, such as resolution, monitor count or position within the virtual
+                screen.</summary>
+        </member>
+        <member name="M:ScreenVersusWpf.ScreenTools.GetSystemDpi">
+            <summary>
+                Returns the system DPI value, which is the DPI setting at the time when the user signed in. This value does
+                not change when the user modifies DPI and doesn't sign out (as supported on Win8.1+). It is also the same for
+                all monitors, even if different monitors have different DPI selected.</summary>
+        </member>
+        <member name="P:ScreenVersusWpf.ScreenTools.Screens">
+            <summary>
+                Gets a read-only collection of all physical screens and their bounds. The primary screen is always the first
+                one enumerated. See Remarks.</summary>
+            <remarks>
+                Do not cache what this property returns. Use the property directly whenever you require information about
+                system screens. This property is designed to be fast and caches the screen data itself. If system display
+                settings change, this internal cache is invalidated automatically and the next call to this property will
+                retrieve up-to-date screen information.</remarks>
+        </member>
+        <member name="P:ScreenVersusWpf.ScreenTools.VirtualScreen">
+            <summary>
+                Gets information about the virtual screen. In ScreenVersusWpf, the virtual screen's top left coordinate is
+                always 0,0. See Remarks.</summary>
+            <remarks>
+                Do not cache what this property returns. This property is fast, and will return up-to-date data when display
+                settings change.</remarks>
+        </member>
+        <member name="M:ScreenVersusWpf.ScreenTools.GetMousePosition">
+            <summary>Returns current mouse cursor position in the virtual screen coordinate space.</summary>
+        </member>
+        <member name="M:ScreenVersusWpf.ScreenTools.GetScreenContaining(ScreenVersusWpf.ScreenPoint)">
+            <summary>
+                Returns the physical screen containing the specified point, or null if the point is outside of every screen.</summary>
+        </member>
+        <member name="M:ScreenVersusWpf.ScreenTools.GetScreenContaining(ScreenVersusWpf.ScreenRect)">
+            <summary>
+                Returns the physical screen containing the center of the specified rectangle, or null if the center is outside
+                of every screen.</summary>
+        </member>
+        <member name="M:ScreenVersusWpf.WinAPI.GetCursorPos(ScreenVersusWpf.WinAPI.POINT@)">
+            <summary>
+                Retrieves the cursor's position, in screen coordinates.</summary>
+            <param name="lpPoint">
+                A pointer to a POINT structure that receives the screen coordinates of the cursor.</param>
+            <returns>
+                Returns nonzero if successful or zero otherwise. To get extended error information, call GetLastError.</returns>
+        </member>
+        <member name="F:ScreenVersusWpf.WinAPI.MONITORINFO.cbSize">
+            <summary>The size of the structure, in bytes.</summary>
+        </member>
+        <member name="F:ScreenVersusWpf.WinAPI.MONITORINFO.rcMonitor">
+            <summary>
+                A RECT structure that specifies the display monitor rectangle, expressed in virtual-screen coordinates.
+                Note that if the monitor is not the primary display monitor, some of the rectangle's coordinates may be
+                negative values.</summary>
+        </member>
+        <member name="F:ScreenVersusWpf.WinAPI.MONITORINFO.rcWork">
+            <summary>
+                A RECT structure that specifies the work area rectangle of the display monitor, expressed in
+                virtual-screen coordinates. Note that if the monitor is not the primary display monitor, some of the
+                rectangle's coordinates may be negative values.</summary>
+        </member>
+        <member name="F:ScreenVersusWpf.WinAPI.MONITORINFO.dwFlags">
+            <summary>A set of flags that represent attributes of the display monitor.</summary>
+        </member>
+    </members>
+</doc>

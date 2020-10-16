@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feed BaseUrl="UPDATE-ME/assets/stable/2.3.40.1914">
+  <Tasks>
+    <FileUpdateTask localPath="Clowd.exe" lastModified="132473291759582467" fileSize="783360">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="D180DCBE1F774466457B64179A6333A68DA31E8D22A71778BABC2937EE6778E3" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="Clowd.exe.config" lastModified="132405684956757175" fileSize="546">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="33FB3053D4D560DD9B63221C96E7B7C22A46D3F2BD271EB7DF6A5081FA6E5FC4" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="Clowd.Interop.dll" lastModified="132473291695207472" fileSize="59904">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="1075355FF298D2518C6A9982B6B9A083D0C09091272A08ED42CB4E3B06F24BB9" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="Clowd.Shared.dll" lastModified="132473291695597471" fileSize="183296">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="ED3D2E3FF15E109206DDA41E1821728218D53977379022DD114161440CD221AD" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="clowd_install.exe" lastModified="132473291701367474" fileSize="799232">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="D713000DE8A26000743D7017746EE3565506CC50E1D4A0EF86E1B5F4A68FF0CF" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="clowd_install.exe.config" lastModified="132405687906137183" fileSize="187">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="F82338E8E9C746B5D95CD2CCC7BF94DD5DE2B9B8982FFFDDF2118E475DE50E15" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="ColorPicker.dll" lastModified="132473291698587466" fileSize="138240">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="322D59295BC9DF2E69F3FB957B302F28B1055B8F1DDEAA5D5D23BCE8ABB40B86" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="CS.Util.dll" lastModified="131516539540000000" fileSize="207872">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="C795ABCC77786B4CDE3392BA421969AE5284C6812232EEB55D24FF3A5854F3BE" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="CS.Wpf.dll" lastModified="131516539560000000" fileSize="89600">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="60CAA532CF8B9C3F2C02357BE632915C5A74E37DD2629D72DB015F30925F9B6B" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="DirectShowLib.dll" lastModified="130596226060000000" fileSize="290304">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="57DE1F5D08AD251A7E40CE6A7E855D7D48D84CE43A3C5D39187CA337F702E55F" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="DotNetZip.dll" lastModified="132345489740000000" fileSize="458752">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="00DA1597D92235D3F84DA979E2FA5DBF049BAFB52C33BD6FC8EE7B29570C124C" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="DrawToolsLib.dll" lastModified="132473291697032484" fileSize="167936">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="7BC5302EB4177CD708A5CA1EED1FA94EF17ECA19B12591D77E8CC8E3EF52ABC5" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="DrawToolsLib.dll.config" lastModified="132439899348647689" fileSize="1516">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="539DB730491DD5F35D99D80B2E7F78CA317F65011DC83D8BE9A93361D0826D5A" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="FileUploadLib.dll" lastModified="132473291695957474" fileSize="22528">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="7E7D2F4E0F95CB940F12A8F9958A48C077942995EAF0B19A415FCCE686115EB1" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="LiveDraw.dll" lastModified="132473291709922465" fileSize="828928">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="51AF3D9721C1223919F54893B3D08A391D0D5AD0FB39B0183992E86A5EF42454" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="LiveDraw.dll.config" lastModified="132450771297540034" fileSize="184">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="BDA69AD9116E8E661F45D847787C88F7B491BE9F0C6DD891F9B016B4EC07F318" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="MahApps.Metro.dll" lastModified="130697235980000000" fileSize="849920">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="AF947674017156BAEE5B0FD1128650F35D4BA62E1565D87D8AEFE02321F423C5" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="Microsoft.Azure.KeyVault.Core.dll" lastModified="130826445980000000" fileSize="13472">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="3A1475D6F1A99AB2A85AFEDFF3DB6454D901EBF1DE1D58E294EA2CB16516648A" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="Microsoft.Data.Edm.dll" lastModified="131304312380000000" fileSize="669920">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="2488A00E8045A929110BC35F4719D40C653C89F1799CB97767CB01FE94CF3E3B" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="Microsoft.Data.OData.dll" lastModified="131304312220000000" fileSize="1536224">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="9E635E1F33493D570A5C42B394450569B14FF418026FE530CA364FC4AB395778" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="Microsoft.Data.Services.Client.dll" lastModified="131304312180000000" fileSize="681184">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="43F0FFB269CD41A26BD1180F895DCD8A7ECCA7447F2B8E08CA3B0038ABE7C72A" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="Microsoft.Expression.Interactions.dll" lastModified="131105495180000000" fileSize="108168">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="63CD5E8A60D77D1007352538A4285C60C0C3EFB9C771035589105A284E4F63A9" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="Microsoft.WindowsAzure.Storage.dll" lastModified="131577298320000000" fileSize="1172592">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="FDEFC845EA532ECB33166E3B91D84AE7C5AADBF50E3BDE7B1B9EBCBF15A2DA57" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="NAudio.dll" lastModified="132249637280000000" fileSize="513536">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="BC4BACC3B8B28D898F1671B79F216CCA439F95EB60CD32D3E3ECAFBECAC42780" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="Newtonsoft.Json.dll" lastModified="130654796940000000" fileSize="513536">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="526F69142EDC80CB1F261ACDB7C73CE3DB841D21AC26BEE6715F604C8A238BE1" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="NLog.dll" lastModified="132425623040000000" fileSize="873472">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="151DE9860BFC5C0F6FF3263A308ABF44200CA9D5D5876EC08E9F4C6A8AFA8E83" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="NotifyIconLib.dll" lastModified="132473291730212473" fileSize="53760">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="D14E3E5A95A3CD22B0CB6D96807A5B69975FD2A791626E66AFD242E420AEB5C0" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="NReco.VideoConverter.dll" lastModified="132473291696852482" fileSize="43335680">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="6D300102FE968FB5126CD3A1DC529F8378CBA23CDF87FD0831FB694736FC6116" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="Ookii.Dialogs.Wpf.dll" lastModified="132473291698672473" fileSize="101888">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="8A4CB83017C777B324FF758E56ED7FB6E0C0DE55F10E2A87462D13BFBE257F68" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="PropertyTools.Wpf.dll" lastModified="132473291709712467" fileSize="314880">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="9FF7849105C73B944EFADE723C377BCED4989E182A3D644AE4A46B8466B1A7C1" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="RT.Json.dll" lastModified="132361250620000000" fileSize="148480">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="5D744721FA55279EE6B460F4FE47B01FED1C66656ED08B51AB9CD4B74B2EA40C" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="RT.PostBuild.dll" lastModified="132361250620000000" fileSize="95744">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="727EF08F7CB215601A4FC774E58A4E60809457451A2EF545978B36D92600522B" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="RT.Serialization.Binary.dll" lastModified="132361250680000000" fileSize="127488">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="600C318E3582CF52A091DEBBA9D17B5A38EA42494EBD3A5DA633FBC3F512D31D" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="RT.Serialization.dll" lastModified="132361250640000000" fileSize="153600">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="964E4EEA923B5513DA3681EBC224666B07468067D73A1FBD18699536EC7D1691" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="RT.Serialization.Json.dll" lastModified="132361250660000000" fileSize="112128">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="5846652F44398A72FF886EE23D7D091F3E174261FD003B5B5D4D66D0AD85E976" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="RT.Serialization.Xml.dll" lastModified="132361250660000000" fileSize="90112">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="1ABFFF5F19C0D4411A0B520CCE17EC4D65E92016DEB8B7BF75A576B49C6A2CDB" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="RT.Util.Core.dll" lastModified="132361250660000000" fileSize="432128">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="D04C972397B0DEADF396A44CF7E95813EF30F7BFD31F263C85BD892E1D539DCD" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="RT.Util.dll" lastModified="132361250740000000" fileSize="338432">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="711F3533EAEE1DB60F0F71D5E9FFFB564B570670B06F0AFF600050125C4454FD" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="ScreenVersusWpf.dll" lastModified="131041864600000000" fileSize="20480">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="C7DDF6B6F300BBE986AD9807F072F6B1A914AE715E455BE892EDA00BF5168D9C" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="SharpRaven.dll" lastModified="131308834160000000" fileSize="71168">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="C5AEF2DE9F4D228B162CD5969EBC6D9A3ECD8996DFB7E9B123D6D7A1B06E97E9" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="System.Spatial.dll" lastModified="131304312140000000" fileSize="127712">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="126F2F2EE7BFCF6CF6B24F3AA8E8176A292A09AC8C77FFD415B134E0DC7116D8" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="System.Threading.Tasks.Dataflow.dll" lastModified="130598594360000000" fileSize="182504">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="AC55053D9EEC9C15D87D8C4065B8426C2C854B86047725CFCD16C74347CF7EC9" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="System.Windows.Interactivity.dll" lastModified="131105495180000000" fileSize="55904">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="93FBC59E4880AFC9F136C3AC0976ADA7F3FAA7CACEDCE5C824B337CBCA9D2EBF" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="version" lastModified="132473301810187656" fileSize="18">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="EECBEB8D4D73FE46190858DDC4F89620D0B2515A10FCA5C2E1935AD1428FD2FF" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="de\Microsoft.Data.Edm.resources.dll" lastModified="131304312380000000" fileSize="75488">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="1A1706184FEF4B2DE8B1AD757A013F57F1E78428A25B422AE5F8AD9D80264C0A" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="de\Microsoft.Data.OData.resources.dll" lastModified="131304312220000000" fileSize="292064">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="A0A27B2DC5AC037CD1E2246BD9D96BF39203DDA902F8AFC3F37BF28430CBFE3D" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="de\Microsoft.Data.Services.Client.resources.dll" lastModified="131304312180000000" fileSize="74464">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="DAAEC0A7D989F3F21738EDF3CDCD4115F3ECC68F6D5E247D98644C9876A41A3D" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="de\System.Spatial.resources.dll" lastModified="131304312140000000" fileSize="26848">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="EE5291BF45CA78068761EB427AE292E0B17B7CE43D97C2BEC14EAED636995FDE" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="en\Microsoft.Expression.Interactions.resources.dll" lastModified="131105495180000000" fileSize="23248">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="B55688CE4B425971CD847D8D15A34F5A7D7B40942D4DABDF550AD5158BAC04E8" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="en\System.Windows.Interactivity.resources.dll" lastModified="131105495180000000" fileSize="22704">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="19B1C6309BAFD678CABC21FA24F907E0C8049287ED9B12F86A3B3AD045D73B35" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="es\Microsoft.Data.Edm.resources.dll" lastModified="131304312380000000" fileSize="74976">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="39706E52CF3A014E4A2970116755A8F52E2AB94530DD08500BEDAFCB1C7EE2AB" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="es\Microsoft.Data.OData.resources.dll" lastModified="131304312220000000" fileSize="286944">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="6CCD38A4F76215AEF2305BBC68AB5CF6406E4CBDCD177B9F1ACB0D7E4E84C241" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="es\Microsoft.Data.Services.Client.resources.dll" lastModified="131304312180000000" fileSize="71904">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="C9C9620D933ECA79AF91C4F5379395C869DF79EAF1239CA35E658E49042D01A9" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="es\Microsoft.Expression.Interactions.resources.dll" lastModified="131105495180000000" fileSize="22736">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="B9217EE5830C1948A9DEDAC0517946B2AAEB9986CF736B63D3B93C2B74A5C139" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="es\System.Spatial.resources.dll" lastModified="131304312140000000" fileSize="26848">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="123C1CC670DE19851832736776AE354ACCD947C6D669D24837F2AD03D490F59B" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="es\System.Windows.Interactivity.resources.dll" lastModified="131105495180000000" fileSize="22688">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="C9970100ED48564F4779BC03B65B69ADF55B679F3132ADB7A7CAA3D7AA401137" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="fr\Microsoft.Data.Edm.resources.dll" lastModified="131304312380000000" fileSize="76512">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="4D0EF6E57E845E429DA47B6D806C12D9B95DCD1DFFFF6A16216C6664E0F3F779" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="fr\Microsoft.Data.OData.resources.dll" lastModified="131304312220000000" fileSize="300768">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="47631A317A5B5B9526925D299D1DC82D1847994317A369DE7014A30C9F45E4F5" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="fr\Microsoft.Data.Services.Client.resources.dll" lastModified="131304312180000000" fileSize="73952">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="B22160CB6E15AA76D889953267C4FCEC8542D6B696B836CC12C8BA518C90BB28" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="fr\Microsoft.Expression.Interactions.resources.dll" lastModified="131105495180000000" fileSize="22720">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="14092207295406BA1FA2B135CAB60862383C7874E7CF6F97E8284DE513422D76" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="fr\System.Spatial.resources.dll" lastModified="131304312140000000" fileSize="27352">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="27348EBAA8B9776F330017918A43F49971B4D54DFA4A213DAF3DE8B1E2DC4545" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="fr\System.Windows.Interactivity.resources.dll" lastModified="131105495180000000" fileSize="22688">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="E181984D844AA7030623F602B636EF75299B59D750C88D8006DA015DE3502266" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="it\Microsoft.Data.Edm.resources.dll" lastModified="131304312380000000" fileSize="74976">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="F5FA932F4D1CEC1A8629A56B345C9836FF24C519F05D9599F7AB933E9B867982" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="it\Microsoft.Data.OData.resources.dll" lastModified="131304312220000000" fileSize="285408">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="BBBEF25047FF1368EEC990544F2E9C1344A50D2AA0A26C38E811EAD91E006DB8" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="it\Microsoft.Data.Services.Client.resources.dll" lastModified="131304312180000000" fileSize="72416">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="ADAD5B56BAB836121ACF768958A6DD44FBC628419656F4A4015BF3D673E07705" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="it\Microsoft.Expression.Interactions.resources.dll" lastModified="131105495180000000" fileSize="22720">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="8A188709B6DF7E78EE6309042B21DDFADA95E98C0C76043B9A7B157AA39FF835" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="it\System.Spatial.resources.dll" lastModified="131304312140000000" fileSize="26848">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="C6599F82B745B93BEA2A57377C1727A5E5DD26818CD3D46554F52140C73ACE81" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="it\System.Windows.Interactivity.resources.dll" lastModified="131105495180000000" fileSize="22688">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="6FCD674338990F2964659B9318E0E7C15D69B7412E18FB1AA8AB38E9E94D318F" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="ja\Microsoft.Data.Edm.resources.dll" lastModified="131304312380000000" fileSize="81120">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="DFAED621E39CEC732E50C1025ABC583E9190FA0FE1225CA87CFF9E1D97DD518A" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="ja\Microsoft.Data.OData.resources.dll" lastModified="131304312220000000" fileSize="324320">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="A02C80E4A302E1E724C0189F0BFC0D08B384BB9D8264B7AA218B35B3B864B2FE" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="ja\Microsoft.Data.Services.Client.resources.dll" lastModified="131304312180000000" fileSize="80608">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="5F961216F2815577CD295A8BA7F49B63C350A44E698EA34DEC6323ABB0D0010A" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="ja\Microsoft.Expression.Interactions.resources.dll" lastModified="131105495180000000" fileSize="23248">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="BC19DE9A36614487101837AC3771511F86824D062065DF3D4B3C590A76A29CF0" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="ja\System.Spatial.resources.dll" lastModified="131304312140000000" fileSize="27872">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="959FF1B1093F505A8929298E0140A7D687E417BC020987115E58190DE6BB5FD8" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="ja\System.Windows.Interactivity.resources.dll" lastModified="131105495180000000" fileSize="23200">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="83CC1B9613CA357B99D8A20D205C2176E1DE29DDD1218E8165CD7C3B6CB00843" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="ko\Microsoft.Data.Edm.resources.dll" lastModified="131304312380000000" fileSize="76000">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="F61D6BC30980132CF993CDDD0C7BAC3EC857FAAE4E35C4803839F01C99724E1D" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="ko\Microsoft.Data.OData.resources.dll" lastModified="131304312220000000" fileSize="291040">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="4A45F7F3CDC08939A2D44D113EA1E98CF45324E5D08F20F1018AD51430872556" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="ko\Microsoft.Data.Services.Client.resources.dll" lastModified="131304312180000000" fileSize="73952">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="FF86D73542A795C2833107A190DCBE4DDF883F6732C4727F5DF7C556BD520324" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="ko\Microsoft.Expression.Interactions.resources.dll" lastModified="131105495180000000" fileSize="22720">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="BF7199B50A13FC674C1CC408B3D42C8FE857625BD888B001AB77B2C4630E69F4" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="ko\System.Spatial.resources.dll" lastModified="131304312140000000" fileSize="27360">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="CE89F6FD5181E43ED55D0FEB42271E003B1AAE4DA1E615C3D1F55138114359C8" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="ko\System.Windows.Interactivity.resources.dll" lastModified="131105495180000000" fileSize="22688">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="119DC1592B7F89CED297C1B07797887C5DA922DD50E96309D910D20F8A460507" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="ru\Microsoft.Data.Edm.resources.dll" lastModified="131304312380000000" fileSize="89824">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="C0A784845490CF5A7DE5596A3A532F814A42F8983D99B47B37E0C7C93DED1E80" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="ru\Microsoft.Data.OData.resources.dll" lastModified="131304312220000000" fileSize="364256">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="41D1B2389A738ABAB39E67C9795671C411937C2EB2416C7D653DB39BB3688F80" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="ru\Microsoft.Data.Services.Client.resources.dll" lastModified="131304312200000000" fileSize="88800">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="BC608F717FDEE5976A5584A65ED3DFC5CC43EBED137EE7BB917FF6C4841CF736" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="ru\Microsoft.Expression.Interactions.resources.dll" lastModified="131105495180000000" fileSize="23760">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="2B3BF568FD45DD4478B69FBEA3E51CB982A8ABA8E9740D3E36C3574D0E06CF62" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="ru\System.Spatial.resources.dll" lastModified="131304312140000000" fileSize="29408">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="57FF66B924DD4664228A53A26FBBC4D1D424926926BB0E154B2AD64CC4906093" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="ru\System.Windows.Interactivity.resources.dll" lastModified="131105495180000000" fileSize="23216">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="5ABF4C385E916C03D6BFE73B67C0DEB6F86D093CB4E876A13D3A2DC3E18327B3" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="zh-Hans\Microsoft.Data.Edm.resources.dll" lastModified="131304312380000000" fileSize="68320">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="8C35C7521049E2A31B0B37773286E6F8B1104C9E5E1055E11E4058C0EA99A544" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="zh-Hans\Microsoft.Data.OData.resources.dll" lastModified="131304312220000000" fileSize="253664">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="64889FF7CF64E4A25EC34B46BE1346A275D8320BCDF3E23BA9F3BF574146879E" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="zh-Hans\Microsoft.Data.Services.Client.resources.dll" lastModified="131304312180000000" fileSize="65248">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="59570CF0EA8D43A24806FFFA2CB1E43B8F84304C04F08BF6837DD75C28E35487" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="zh-Hans\Microsoft.Expression.Interactions.resources.dll" lastModified="131105495180000000" fileSize="22720">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="B496B720CBE030B52B13AA86B37F86428D57D17BE0F4F2E258BA6189EC3F1850" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="zh-Hans\System.Spatial.resources.dll" lastModified="131304312140000000" fileSize="25824">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="2F1BF4EB9FA6EF47FD6843A1AFEFB8E71946367B99CA5A38EFE2D5040144B971" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="zh-Hans\System.Windows.Interactivity.resources.dll" lastModified="131105495180000000" fileSize="22176">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="321C3C5B944527BA03E1534587EB46F9CF54B36CFF9EFE2B628CFAE768C23994" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="zh-Hant\Microsoft.Data.Edm.resources.dll" lastModified="131304312380000000" fileSize="68320">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="3D372731B6C4E41CB27494E036910A7A2AA085C24126AAF6AA773AA10A5927F6" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="zh-Hant\Microsoft.Data.OData.resources.dll" lastModified="131304312220000000" fileSize="250080">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="E09C2DDDC5F90CD88AF6F895C75A8482534DB489B2C1D9FDB52DCC6A134B3360" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="zh-Hant\Microsoft.Data.Services.Client.resources.dll" lastModified="131304312180000000" fileSize="65248">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="4BA23CF7F7A9EFEE9883F1A0B21031A7C02B36C7D25EDD6F9D902698471688F5" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="zh-Hant\Microsoft.Expression.Interactions.resources.dll" lastModified="131105495180000000" fileSize="22720">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="C2750D1BDABF2249D8738B01298A54B5BFCDD1068B88BA4180BDE1C00E8FC1B1" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="zh-Hant\System.Spatial.resources.dll" lastModified="131304312140000000" fileSize="25824">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="37C13C86EC330477A6F006078B5A64FBD54741F27BBE4E19593CBDA921A259F5" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="zh-Hant\System.Windows.Interactivity.resources.dll" lastModified="131105495180000000" fileSize="22176">
+      <Conditions>
+        <FileChecksumCondition type="not" checksumType="sha256" checksum="3C2C9193DB37C3368CD9CBAEFEB4797D6FA4C05BA30AA107D64AB004F5BF12BC" />
+      </Conditions>
+    </FileUpdateTask>
+  </Tasks>
+</Feed>
