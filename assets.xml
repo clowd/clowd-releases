@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Assets MainChannel="stable">
-  <Package Version="2.3.40.1914" Channel="stable" FeedUrl="https://caesay.github.io/clowd-releases/feed/2.3.40.1914-stable.xml" />
+  <Package Version="2.3.40.1914" Channel="stable" FeedUrl="https://clowd.github.io/clowd-releases/feed/2.3.40.1914-stable.xml" />
 </Assets>
